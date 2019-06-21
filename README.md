@@ -1,7 +1,7 @@
 # Keras-Model-Deployment-to-Web
 In this repository I am providing a code that how can we deploy a keras deep learning model to HTML pages by using Flask Library
 
-![Index Page](index.png)
+![Index Page](https://github.com/SohaibAnwaar/Keras-Model-Deployment-to-Web/blob/master/screenshots/index.PNG)
 
 Folder Description:
 1.	Static: Images located
