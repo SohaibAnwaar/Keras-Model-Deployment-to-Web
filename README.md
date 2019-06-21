@@ -11,6 +11,11 @@ Folder Description:
 5.	inference.py : In this file I am loading my model. Pre-processing the input I get from Html page ,making prediction and sending prediction to main function
 6.	Python Notebook Machine Learning : this folder contain the training of model in python notebook , have dataset and a research paper from where I got some help.
 
+
+# How to start 
+1. Open Terminal / anaconda promt (Go to the directory where the project is located)
+2. type python app.py or set FLASK_APP=app.py (enter) type flask run
+3. Go to your browser (http://127.0.0.1:5000/) copy paste this address
 I will always be available to help  you guys thank you!
 
 
